@@ -19,7 +19,7 @@
 
 💥 Compacted within 50 Lines of code
 
-🤣 Easy to read/follow code structure.
+🍱 Easy to read/follow code structure.
 
 ## External Libraries
 
