@@ -141,6 +141,6 @@ The blockchain application will print out each hase along with relative index.
 
 ---
 
-> ![Chrome](md_assets/ios7-monitor.png) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
-> ![github](md_assets/social-github.png)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> ![linkedin](md_assets/social-linkedin.png)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
+> ![Chrome](md_assets/chrome.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> ![github](md_assets/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> ![linkedin](md_assets/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
