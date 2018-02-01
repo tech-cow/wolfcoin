@@ -13,13 +13,13 @@
 
 ## Features
 
-⚡️ Quick Hashing Display
+![fast](md_assets/fast-forward.svg) Quick Hashing Display
 
-🤣 Using SHA-256 algorithm to create instant hash
+![cpu](md_assets/cpu.svg) Using SHA-256 algorithm to create instant hash
 
-🎯 Compacted within 50 Lines of code
+![feather](md_assets/feather.svg) Compacted within 50 Lines of code
 
-💫 Easy to read/follow code structure.
+![book](md_assets/book-open.svg) Easy to read/follow code structure.
 
 ## External Libraries
 
@@ -141,6 +141,6 @@ The blockchain application will print out each hase along with relative index.
 
 ---
 
-> ![Chrome](md_assets/chrome.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> ![home](md_assets/home.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
 > ![github](md_assets/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
 > ![linkedin](md_assets/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
