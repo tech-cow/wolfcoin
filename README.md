@@ -13,13 +13,13 @@
 
 ## Features
 
-![fast](md_assets/fast-forward.svg) Quick Hashing Display
+![fast](md_assets/fast-forward.svg)   Quick Hashing Display
 
-![cpu](md_assets/cpu.svg) Using SHA-256 algorithm to create instant hash
+![cpu](md_assets/cpu.svg)   Using SHA-256 algorithm to create instant hash
 
-![feather](md_assets/feather.svg) Compacted within 50 Lines of code
+![feather](md_assets/feather.svg)   Compacted within 50 Lines of code
 
-![book](md_assets/book-open.svg) Easy to read/follow code structure.
+![book](md_assets/book-open.svg)    Easy to read/follow code structure.
 
 ## External Libraries
 
