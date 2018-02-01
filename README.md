@@ -44,6 +44,18 @@ With Python V 2.7
 $ python wolfcoin.py
 ```
 
-```
-## Examples 
+## Demo
+The blockchain application will print out each hase along with relative index.
 
+![Demo](demo.png)
+
+
+## License
+
+⚡️ MIT
+
+---
+
+> [yuzhoujr.com](https://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> GitHub [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> LinkedIn [@yuzhoujr](linkedin.com/in/yuzhoujr)
