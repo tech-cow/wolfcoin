@@ -73,6 +73,8 @@ class Block:
 ```
 
 
+
+
 In `create_genesis_block()`: When a blockchain is initiated, it needs to at least have one block, this function creates the very first block inside of the blockchain that has an arbitrary previous_hash, since there is no previous_hash.
 
 ```python
@@ -83,6 +85,8 @@ def create_genesis_block():
     """
     return Block(0, date.datetime.now(), "Genesis Block", "0")
 ```
+
+
 
 In `def new_block(last_block)`: This function creates the rules on how a new block is created. In a nutshell, it gets previous_hash from the last element in the array, and update it's own previous_hash to itself, so later when next block is created, it can read the current hash value.
 
@@ -98,6 +102,8 @@ def new_block(last_block):
     this_hash = last_block.hash
     return Block(this_index, this_timestamp, this_data, this_hash)
 ```
+
+
 
 In `main`: After created necessarry function, simply create a blockchain, add a genesis block, then loop over 20 times to create 20 blocks. Eventually print them out, and we are done here.
 
