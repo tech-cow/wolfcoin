@@ -36,7 +36,7 @@ User needs to have Terminal/Bash installed, Python version in this project is 2.
 
 ### Run
 
-With Python V 2.7
+🐍 Python 2.7
 
 ```bash
 $ python wolfcoin.py
@@ -137,7 +137,7 @@ The blockchain application will print out each hase along with relative index.
 
 ## License
 
-⚡️ MIT
+🌱 MIT 🌱
 
 ---
 
