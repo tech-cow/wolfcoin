@@ -13,7 +13,7 @@
 
 ## Features
 
-![fast](md_assets/fast-forward.svg)   Quick Hashing Display
+![fast](md_assets/fast-forward.svg)  &nbsp;&middot;&nbsp;  Quick Hashing Display
 
 ![cpu](md_assets/cpu.svg)   Using SHA-256 algorithm to create instant hash
 
