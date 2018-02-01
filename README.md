@@ -15,11 +15,11 @@
 
 ![fast](md_assets/fast-forward.svg)  &nbsp;&middot;&nbsp;  Quick Hashing Display
 
-![cpu](md_assets/cpu.svg)   Using SHA-256 algorithm to create instant hash
+![cpu](md_assets/cpu.svg) &nbsp;&middot;&nbsp;  Using SHA-256 algorithm to create instant hash
 
-![feather](md_assets/feather.svg)   Compacted within 50 Lines of code
+![feather](md_assets/feather.svg)  &nbsp;&middot;&nbsp;  Compacted within 50 Lines of code
 
-![book](md_assets/book-open.svg)    Easy to read/follow code structure.
+![book](md_assets/book-open.svg)  &nbsp;&middot;&nbsp;  Easy to read/follow code structure.
 
 ## External Libraries
 
