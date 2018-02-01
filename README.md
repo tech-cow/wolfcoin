@@ -143,6 +143,6 @@ The blockchain application will print out each hase along with relative index.
 
 ---
 
-> [yuzhoujr.com](https://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
 > GitHub [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
 > LinkedIn [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
