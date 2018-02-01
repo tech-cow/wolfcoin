@@ -9,7 +9,7 @@
 </p>
 
 
-> wolfcoin is a Python based mini-blockchain.
+> wolfcoin is a Python based mini-blockchain. The purpose of creating this project is to sharpen my understanding of blockchain's basic. The scope of the project covers hashing generating using SHA-256 algorithm, and stacking blocks based on previous hash. The output displays in local terminal setting, no transaction is made using this app.
 
 ## Features
 
