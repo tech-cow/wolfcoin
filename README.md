@@ -132,7 +132,7 @@ for i in xrange(0, blocks_num):
 ## Demo
 The blockchain application will print out each hase along with relative index.
 
-![Demo](demo.png)
+![Demo](md_assets/demo.png)
 
 
 ## License
@@ -141,6 +141,6 @@ The blockchain application will print out each hase along with relative index.
 
 ---
 
-> [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
-> GitHub [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> LinkedIn [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
+> ![Chrome](md_assets/chrome.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> ![github](md_assets/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> ![linkedin](md_assets/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
