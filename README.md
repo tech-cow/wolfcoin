@@ -9,7 +9,7 @@
 </p>
 
 
-> wolfcoin is a Python based mini-blockchain. The purpose of creating this project is to sharpen my understanding of blockchain's basic. The scope of the project covers hashing generating using SHA-256 algorithm, and stacking blocks based on previous hash. The output displays in local terminal setting, no transaction is made using this app.
+> wolfcoin is a Python-based mini-blockchain. The purpose of creating this project is to sharpen my understanding of blockchain's basic. The scope of the project covers hashing generating using the SHA-256 algorithm, and stacking blocks based on a previous hash. The output displays in local terminal setting, no transaction is made using this app.
 
 ## Features
 
@@ -23,7 +23,7 @@
 
 ## External Libraries
 
-Third Party library are used in this project
+Third Party libraries are used in this project
 
 | Package           |   Description |
 | ------------- |:-------------:|
@@ -32,7 +32,7 @@ Third Party library are used in this project
 
 ## Getting Started
 
-User needs to have Terminal/Bash installed, Python version in this project is 2.7.
+The user needs to have Terminal/Bash installed, Python version in this project is 2.7.
 
 ### Run
 
@@ -44,7 +44,7 @@ $ python wolfcoin.py
 
 ### Code Walkthrough
 
-In `class Block`: Creating a Block data structure that takes a few args including: index, timestamp, a random data that could be anything and most importantly, a previous hash that the newly created block can build upon.
+In `class Block`: Creating a Block data structure that takes a few args including index, timestamp, a random data that could be anything and most importantly, a previous hash that the newly created block can build upon.
 
 ```python
 class Block:
@@ -73,7 +73,7 @@ class Block:
 
 
 
-In `create_genesis_block()`: When a blockchain is initiated, it needs to at least have one block, this function creates the very first block inside of the blockchain that has an arbitrary previous_hash, since there is no previous_hash.
+In `create_genesis_block()`: When a blockchain is initiated, it needs to at least have one block, this function creates the very first block inside of the blockchain that has an arbitrary previous_hash since there is no previous_hash.
 
 ```python
 def create_genesis_block():
@@ -86,7 +86,7 @@ def create_genesis_block():
 
 
 
-In `def new_block(last_block)`: This function creates the rules on how a new block is created. In a nutshell, it gets previous_hash from the last element in the array, and update it's own previous_hash to itself, so later when next block is created, it can read the current hash value.
+In `def new_block(last_block)`: This function creates the rules on how a new block is created. In a nutshell, it gets previous_hash from the last element in the array, and update its own previous_hash to itself, so later when next block is created, it can read the current hash value.
 
 ```python
 
@@ -103,7 +103,7 @@ def new_block(last_block):
 
 
 
-In `main`: After created necessarry function, simply create a blockchain, add a genesis block, then loop over 20 times to create 20 blocks. Eventually print them out, and we are done here.
+In `main`: After creating necessary function, simply create a blockchain, add a genesis block, then loop over 20 times to create 20 blocks. Eventually, print them out, and we are done here.
 
 
 ```python
@@ -130,7 +130,7 @@ for i in xrange(0, blocks_num):
 
 
 ## Demo
-The blockchain application will print out each hase along with relative index.
+The blockchain application prints out each hash along with a relative index.
 
 ![Demo](md_assets/demo.png)
 
