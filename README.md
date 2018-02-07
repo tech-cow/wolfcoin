@@ -9,17 +9,17 @@
 </p>
 
 
-> wolfcoin is a Python based mini-blockchain.
+> wolfcoin is a Python based mini-blockchain. The purpose of creating this project is to sharpen my understanding of blockchain's basic. The scope of the project covers hashing generating using SHA-256 algorithm, and stacking blocks based on previous hash. The output displays in local terminal setting, no transaction is made using this app.
 
 ## Features
 
-⚡️ Quick Hashing Display
+🔥 Quick Hashing Display
 
-🤣 Using SHA-256 algorithm to create instant hash
+⚡ Using SHA-256 algorithm to create instant hash
 
-🎯 Compacted within 50 Lines of code
+💥 Compacted within 50 Lines of code
 
-💫 Easy to read/follow code structure.
+🍱 Easy to read/follow code structure.
 
 ## External Libraries
 
@@ -36,7 +36,7 @@ User needs to have Terminal/Bash installed, Python version in this project is 2.
 
 ### Run
 
-With Python V 2.7
+🐍 Python 2.7
 
 ```bash
 $ python wolfcoin.py
@@ -137,10 +137,10 @@ The blockchain application will print out each hase along with relative index.
 
 ## License
 
-⚡️ MIT
+🌱 MIT 🌱
 
 ---
 
-> ![Chrome](md_assets/chrome.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
-> ![github](md_assets/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> ![linkedin](md_assets/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
+> ![home](http://yuzhoujr.com/emoji/home.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> ![github](http://yuzhoujr.com/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> ![linkedin](http://yuzhoujr.com/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
