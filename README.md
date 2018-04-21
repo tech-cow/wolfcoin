@@ -1,5 +1,5 @@
 <h3 style="text-align:center;font-weight: 300;" align="center">
-  <img src="http://yuzhoujr.com/logo/legacy/wolfcoin.PNG" width="160px">
+  <img src="http://yuzhoujr.com/legacy/logo/wolfcoin.PNG" width="160px">
 </h3>
 
 <p align="center">
